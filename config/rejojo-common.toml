@@ -1,0 +1,6 @@
+
+["Global Settings"]
+	#    Determines if The World would receive resolve from time stop
+	#    Default is to true.
+	enableTSResolve = true
+

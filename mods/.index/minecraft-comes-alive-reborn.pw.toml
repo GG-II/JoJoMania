@@ -1,0 +1,16 @@
+filename = 'minecraft-comes-alive-7.3.23+1.16.5-universal.jar'
+name = 'MCA Reborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c3d5412064f3bf2a6acc7ca27b49c39dd5949b3693ddc43f1a5d7a4d31998e9e574609763689dd41543125dd1b36fd8b15646e5236ab1061a425901d47187c7f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1W98a849/versions/tOWiRgB0/minecraft-comes-alive-7.3.23%2B1.16.5-universal.jar'
+
+[update.modrinth]
+mod-id = '1W98a849'
+version = 'tOWiRgB0'

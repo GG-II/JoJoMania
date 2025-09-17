@@ -1,0 +1,6 @@
+
+["Client config"]
+	#  Determines if new time stop related icons are enabled
+	#   Default is to true.
+	enableNewTSIcons = true
+

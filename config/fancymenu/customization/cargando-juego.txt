@@ -1,0 +1,142 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = menu/background_1.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 226
+  width = 508
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = adfc649c-6eed-4ac3-b388-2983e6d9c8bb1757979798908
+  y = 191
+  height = 126
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_memory
+  actionid = 247367ee-ee9e-4c57-9a88-813d7e0d0b4f1757979798909
+  y = 10
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_log
+  actionid = 57bbadcc-4cd5-4621-b5d2-ed58b4995bdb1757979798909
+  y = 459
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = c7ff7854-50f0-4f70-8828-dd5c2763b5b21757979798909
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = bottom-centered
+  hidden = true
+  original_pos_size_calculation = false
+  x = -199
+  width = 399
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 7bb5cf7f-7c8e-4fdb-b674-6bc260c650c31757979798909
+  y = -41
+  height = 21
+}
+
+customization {
+  orientation = bottom-right
+  name = iggy_walk
+  x = -270
+  width = 65
+  actionid = 1d162350-4281-4d8b-9f6e-e33bfed4b34c1757982907699
+  action = addanimation
+  y = -61
+  height = 51
+}
+
+customization {
+  orientation = bottom-right
+  background_texture = menu/cargando barra.png
+  bar_texture = menu/cargando....png
+  progress_for_element_orientation = false
+  background_color = #ABC8F7
+  x = -202
+  width = 199
+  bar_color = #5295FF
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = 61b01e54-26c3-4edd-99d3-28ce66faa2d11758138821113
+  y = -49
+  direction = up
+  height = 36
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 3.0
+  source = version.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = 109
+  width = 101
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = db754619-df45-4044-8ce8-40043843dc201758138954234
+  y = 471
+  alignment = left
+  height = 33
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 3.0
+  source = Versión:
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 8
+  width = 101
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3437613b-5939-4e96-a8b2-e63b8d5bbfc21758139039383
+  y = 470
+  alignment = left
+  height = 33
+}
+

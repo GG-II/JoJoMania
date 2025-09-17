@@ -1,0 +1,16 @@
+filename = 'cavesandcliffs-1.16.5-7.2.0.jar'
+name = 'Vanilla Backport: Chase the Skies, The Garden Awakens'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd0eb68080848629dff83e748ab32430c4f17eae382879b0710c8f8f418d0686dc53c7e5c274729a804b9a179cd9cc25c8b6243f311fa3366c12a9906a970015'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/Qw4ZYXoQ/cavesandcliffs-1.16.5-7.2.0.jar'
+
+[update.modrinth]
+mod-id = '6xwxDTgf'
+version = 'Qw4ZYXoQ'

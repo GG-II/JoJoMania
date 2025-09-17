@@ -1,0 +1,16 @@
+filename = 'emotecraft-for-MC1.16.5-2.2.7-b.build.47-forge.jar'
+name = 'Emotecraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a5c26a8ad78f52daf49fdeea4e90465c125c54f844d6ec146c10c979039c7005222bcc4af9f4f2f8a4ff7bc5c477fd3b5054b0f5460b9760d2d5b7682e987fd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pZ2wrerK/versions/OU1kdZya/emotecraft-for-MC1.16.5-2.2.7-b.build.47-forge.jar'
+
+[update.modrinth]
+mod-id = 'pZ2wrerK'
+version = 'OU1kdZya'

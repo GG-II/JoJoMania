@@ -1,0 +1,16 @@
+filename = 'RotP-MadeInHeaven-1.2.5-1.jar'
+name = 'Ripples of the Past: Made in Heaven Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c1db8a957fd5e829abf54443d5ec256bb754582e9cd2bddb025e11e76a27fcdbf214c02738574a7c5ad483b509211412f59f119e29c04c6cc7f5d70480e868c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZzoILwBo/versions/nUofEyYp/RotP-MadeInHeaven-1.2.5-1.jar'
+
+[update.modrinth]
+mod-id = 'ZzoILwBo'
+version = 'nUofEyYp'

@@ -1,0 +1,16 @@
+filename = 'drippyloadingscreen_forge_2.2.2_MC_1.16.5.jar'
+name = 'Drippy Loading Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '65b87596217bbbbe536f85fe02f75e5a9e974500f7faa092f5dfcff6f556b498f341371e8054a595e2225a3d9e06309d3e8e1bddfe0b8ddc1a3a04d2026d1d26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v3CYg2V9/versions/imvcEjQK/drippyloadingscreen_forge_2.2.2_MC_1.16.5.jar'
+
+[update.modrinth]
+mod-id = 'v3CYg2V9'
+version = 'imvcEjQK'

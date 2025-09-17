@@ -1,0 +1,16 @@
+filename = 'RotP-MobsWithPowers-1.1.2.jar'
+name = 'Ripples of the Past: Mobs With Powers Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab3136a4cb852b2b3b05cea734703aa95fc1fcb91605df94a2f171d1c01fbd77d324a0ba8dc14b0ed4621cfb33edc6f16b628d7ff58aab46c2a5e9880e7d56ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/74vTQMje/versions/QOPOrDAl/RotP-MobsWithPowers-1.1.2.jar'
+
+[update.modrinth]
+mod-id = '74vTQMje'
+version = 'QOPOrDAl'

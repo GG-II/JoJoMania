@@ -1,0 +1,16 @@
+filename = 'OptiFine_1.16.5_HD_U_G7.jar'
+name = 'project-492323'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2122bcecf60700aa27fafca0bab6533a4c3029ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3344548
+project-id = 492323

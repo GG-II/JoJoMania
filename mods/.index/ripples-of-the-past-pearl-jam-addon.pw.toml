@@ -1,0 +1,16 @@
+filename = 'RotP-PearlJam-1.0.3.jar'
+name = 'Ripples of the Past: Pearl Jam Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8e4d1a0be3b74387f04950196d5cc001fb01730c59500deb1c2c2df323554b17315811e69e64d2a72b20a82215b5d1cb540a31cf912d9fbc8999ffbd30ef031b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b8pI6LIL/versions/Dk9x5GW7/RotP-PearlJam-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'b8pI6LIL'
+version = 'Dk9x5GW7'

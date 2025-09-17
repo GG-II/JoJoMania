@@ -1,0 +1,7 @@
+
+["Lovers Settings"]
+	#    Multiple damage for ALL attacks to Entity if Lovers into Entity.
+	#    Defaults to 1 (to off).
+	#Range: > 1
+	DefaultMultipleDamage = 1
+

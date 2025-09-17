@@ -1,0 +1,16 @@
+filename = 'architectury-1.32.68.jar'
+name = 'Architectury API'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc4299258fbce4a0006f541aaf0dc62e74007dea8fd4924319f6feeb3fbe1fa8ca9ce925434b75ea106c5c78e044050dc72a6e9811ea76fda1f9797ef6f0f4e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lhGA9TYQ/versions/Zw57dVyl/architectury-1.32.68.jar'
+
+[update.modrinth]
+mod-id = 'lhGA9TYQ'
+version = 'Zw57dVyl'

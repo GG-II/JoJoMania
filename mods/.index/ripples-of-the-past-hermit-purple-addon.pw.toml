@@ -1,0 +1,16 @@
+filename = 'RotP-Hermit Purple-1.3.5b.jar'
+name = 'RotP Hermit Purple'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '72ff437e9cc36b062843eb1bdeec0521aed0c9b3a1cf249b1803cc8360d3644bf505ab2da26e0526ac5074f369b1c98388e19589a7a7efef6834d20c2917c2bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/D2M8ZmTt/versions/9ovVc9jU/RotP-Hermit Purple-1.3.5b.jar'
+
+[update.modrinth]
+mod-id = 'D2M8ZmTt'
+version = '9ovVc9jU'

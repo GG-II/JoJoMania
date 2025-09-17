@@ -1,0 +1,16 @@
+filename = 'RotP-StoneLegacy-1.2.1.jar'
+name = 'Ripples of The Past: Stone Legacy Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd4eda949ab9d51db9db94aaf8c41db33378436846a0007fba5805049573f8b05739a679df4ee8a360b2f5de3041fe03d2f8d13e9ff55bf946a9502c847536b1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yeb5rA6e/versions/SlBdCNCi/RotP-StoneLegacy-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'Yeb5rA6e'
+version = 'SlBdCNCi'

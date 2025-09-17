@@ -1,0 +1,38 @@
+
+[Settings]
+	#    A list of long-range Stands. Increases their operational range to 32 blocks for mobs.
+	longRangeStands = ["rotp_harvest:harvest_stand", "rotp_zbc:bad_company", "rotp_zgd:green_day"]
+	#    Allows giving a Stand to a Stand. May lead to chaos and lag.
+	smallAnarchyWithStands = false
+	#    Determines how the 'entityList' will work.
+	#    - false (default): Blacklist. Entities on the list are FORBIDDEN from getting powers.
+	#    - true: Whitelist. ONLY entities on the list CAN get powers.
+	useEntityWhitelist = false
+	#    If enabled, mobs will only get a Stand if at least one player on the server has the specified advancement.
+	requireStandAdvancementToSpawnMobsWithPowers = true
+	#    A list of entity IDs used as either a blacklist or a whitelist.
+	#    Its behavior is determined by the 'useEntityWhitelist' option.
+	entityList = ["rotp_harvest:harvest", "rotp_zbc:bad_soldier", "rotp_zbc:bad_tank", "rotp_zbc:bad_helicopter", "rotp_pj:pearljam", "rotp_zkq:sheer_heart", "rotp_stfn:player_arm", "rotp_stfn:player_leg", "rotp_stfn:player_head"]
+	#    Allow mobs to get Stands from other addons.
+	#    WARNING: THIS MAY CAUSE ISSUES AND CRASHES! Please send reports to the addon's Discord thread.
+	useAddonStands = false
+	#    The percentage chance for a mob to get a Stand upon spawning.
+	#    - Default: 5%
+	#Range: 0 ~ 100
+	percentageChanceToGettingAStandForMob = 5
+	#    A blacklist of Stands that mobs cannot obtain.
+	#    - SOME STANDS CAUSE ISSUES: Harvest (summon), Bad Company (summon), Weather Report (optimized only for players).
+	#    - If you want to help fix these issues, please send crash reports to the addon's Discord thread!
+	blockedStandsForMobs = ["rotp_harvest:harvest_stand", "rotp_zbc:bad_company", "rotp_wr:weather_report", "rotp_ctr:catch_the_rainbow", "rotp_metallica:metallica", "rotp_zwa:white_album", "rotp_wou:wonder_of_you", "rotp_wonderofu:wonderofu", "rotp_lovers:lovers"]
+	#    If enabled, Stand-user mobs will drop a disc of their Stand upon death.
+	#    - Only works if 'keepStandOnDeath' in the 'jojo-common' config is set to 'false'.
+	dropStandDiscFromMobs = false
+	#    Use the advanced combo system for mobs.
+	#    - If disabled, mobs will use random abilities without any logic.
+	useWIPComboSystem = true
+	#    A blacklist of Stand abilities that mobs will be unable to use.
+	blockedStandActions = ["rotp_harvest:search", "rotp_harvest:go_to_this_place", "rotp_harvest:set_target", "rotp_harvest:forget_target", "rotp_zbc:set_target", "rotp_zbc:forget_target", "rotp_harvest:stay_with", "rotp_harvest:carry_up"]
+	#    Allows Boy II Man to spawn in villages.
+	#    - WARNING: This entity is a Work-In-Progress and may have bugs!
+	spawnBoy2Man = false
+

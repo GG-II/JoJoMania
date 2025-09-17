@@ -1,0 +1,6 @@
+
+[Config]
+	#  Determines if rewind shaders are enabled
+	#  Default is to true.
+	isShaderEnabled = true
+

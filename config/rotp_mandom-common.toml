@@ -1,0 +1,25 @@
+
+["Global Settings"]
+	#    Rewind all in * chunks.
+	#    Defaults to 10.
+	#Range: > 1
+	RewindInChunks = 10
+	#    Maximum number of uses up to repair Ringo Clock.
+	#    Defaults to 255.
+	#Range: > 1
+	MaxCastRingoClock = 255
+
+["Time Rewind Settings"]
+	#    Allow summoning stand in rewind.
+	#    Defaults to false.
+	SummonStandEnabled = false
+	#    Require Ringo Clock to use Time Rewind ability.
+	#    Defaults to true.
+	RequireRingoClockToRewind = true
+	#    Save stand stats.
+	#    Defaults to true.
+	SaveStandStats = true
+	#    Save non power stats.
+	#    Defaults to true.
+	SaveNonPowerStats = true
+

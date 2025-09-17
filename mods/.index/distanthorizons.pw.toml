@@ -1,0 +1,16 @@
+filename = 'DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar'
+name = 'Distant Horizons'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '36f9769ad905b9b68ea1ed70ae2791380c9a7a66c6bccb953534eb80bb0421dcee8d727895b4eff8f2e52926c052a4ea16f02ebf69b7b9c1a98d68e891b15bae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uCdwusMi/versions/wtHg2yzz/DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar'
+
+[update.modrinth]
+mod-id = 'uCdwusMi'
+version = 'wtHg2yzz'

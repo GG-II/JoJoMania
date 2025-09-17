@@ -1,0 +1,15 @@
+
+["Blood Bottle Configuration"]
+	#
+	#Changes in percents max vampire energy bar value till what you can drink
+	#recommended: 1-100%, Default = 65%
+	maxBottleHungerValue = 65
+	#
+	#Adds percentage difference between bottle fill ability cost and blood bottle's blood energy value
+	#recommended: 0-100%, Default = 0%
+	bottleDrainPenalty = 0
+	#
+	#Changes in percents stored blood value
+	#recommended: 1-1000%, Default = 100%
+	fillBottleMultiplier = 100
+

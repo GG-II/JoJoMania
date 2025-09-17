@@ -1,0 +1,16 @@
+filename = 'RotP-CMoon-1.4.3.jar'
+name = 'Ripples of the Past: C-Moon Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '980ffe5f54811620ac43fbb90699362137c44570e7c6e5cab73d890edc6822a6f042110b3fd0102eb99e8c330259498dfce029eb276f470c5cc1d951e48cf734'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yo6gG641/versions/NcAY8jnf/RotP-CMoon-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'yo6gG641'
+version = 'NcAY8jnf'

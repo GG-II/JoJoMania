@@ -1,0 +1,16 @@
+filename = 'RotP-Bad_Company-1.0.8.jar'
+name = 'Ripples of the Past: Bad Company Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c42fb1e4dbfecffc2d02f13a841ad6ae39bd4cf8f3e7127c6db0670c1ed7700b5f7849fc8e2010b8b2f839183480759a17769e0382108be4dd50a1115b9676c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8ii1dXdq/versions/sls0avzR/RotP-Bad_Company-1.0.8.jar'
+
+[update.modrinth]
+mod-id = '8ii1dXdq'
+version = 'sls0avzR'

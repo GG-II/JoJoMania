@@ -1,0 +1,16 @@
+filename = 'WAWLA-1.16.5-8.0.9.jar'
+name = 'Wawla - What Are We Looking At'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8527b276213d469ec0c5d9d67c0124fda382be6192cc417ee525fa0173703f7313ea26728e533cb09e888503a032837b515b1d053055e61bb71ebceb1be860c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wxWOoXgy/versions/JsdXFq9N/WAWLA-1.16.5-8.0.9.jar'
+
+[update.modrinth]
+mod-id = 'wxWOoXgy'
+version = 'JsdXFq9N'

@@ -1,0 +1,16 @@
+filename = 'CustomNPCs-1.16.5.20220515.jar'
+name = 'Custom NPCs'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '868c476be34bac92bc4f98d864a8d62c3792817d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3791072
+project-id = 221826

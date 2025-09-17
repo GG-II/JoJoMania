@@ -1,0 +1,18 @@
+
+["Can Hamon give Hermit Purple"]
+	#Does training hamon gives Stand?
+	hamonToHermit = false
+	#Hamon strength level to obtain Hermit Purple
+	#Range: 0 ~ 60
+	strength = 60
+	#Hamon breathing level to obtain Hermit Purple
+	#Range: 0 ~ 100
+	breathing = 100
+	#Hamon control level to obtain Hermit Purple
+	#Range: 0 ~ 60
+	control = 60
+
+["Can Hermit Purple punch Stands?"]
+	#Can Hermit Purple make hamon attacks target Stands?
+	hermitHamon = false
+

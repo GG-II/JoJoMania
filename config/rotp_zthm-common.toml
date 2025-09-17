@@ -1,0 +1,16 @@
+
+["Can Hamon give Stands (OverWrites Hermit Purple configs)"]
+	#Does training hamon gives Stand?
+	hamonToStand = false
+
+["Levels Required"]
+	#Hamon strength level to obtain the Hamon Stand
+	#Range: 0 ~ 60
+	strength = 60
+	#Hamon breathing level to obtain the Hamon Stand
+	#Range: 0 ~ 100
+	breathing = 100
+	#Hamon control level to obtain the Hamon Stand
+	#Range: 0 ~ 60
+	control = 60
+

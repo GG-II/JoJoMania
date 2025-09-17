@@ -1,0 +1,21 @@
+
+#Time Stop Bar Settings
+[timestop_bar]
+	#Color preset for the time stop bar
+	#Available values: LIGHT_BLUE, BLUE, RED, ORANGE, GREEN, PURPLE, YELLOW
+	#Allowed Values: LIGHT_BLUE, BLUE, RED, ORANGE, GREEN, PURPLE, YELLOW
+	colorPreset = "LIGHT_BLUE"
+	#Text color for the time stop counter
+	#Use decimal values (0-16777215) instead of hexadecimal
+	#Example values:
+	#  White: 16777215 (0xFFFFFF)
+	#  Black: 0 (0x000000)
+	#  Red: 16711680 (0xFF0000)
+	#  Green: 65280 (0x00FF00)
+	#  Blue: 255 (0x0000FF)
+	#  Yellow: 16776960 (0xFFFF00)
+	#  Purple: 8388736 (0x800080)
+	#Default value: 16777215 (white)
+	#Range: 0 ~ 16777215
+	textColor = 16777215
+

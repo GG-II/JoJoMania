@@ -1,0 +1,16 @@
+filename = 'RotP-Extra-Stands-1.1.0c.jar'
+name = 'Ripples of the Past: Extra Stands Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '82d35d73ec79a9f39de57c26e855e42a33f524fac146c7043bb7907d4137383a27960bc0220d2754ca4c2affe36c2d4511fbd891a7183172b7903bc9141fe174'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RvVFJXfy/versions/JS5XmFlh/RotP-Extra-Stands-1.1.0c.jar'
+
+[update.modrinth]
+mod-id = 'RvVFJXfy'
+version = 'JS5XmFlh'

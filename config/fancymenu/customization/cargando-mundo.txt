@@ -1,0 +1,42 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.WorldLoadProgressScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = menu/background_3.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-right
+  name = iggy_walk
+  x = -250
+  width = 67
+  actionid = 167581da-dc1a-4c47-9c32-4e34d35fd3e81757983092342
+  action = addanimation
+  y = -58
+  height = 53
+}
+
+customization {
+  path = menu/cargando....png
+  orientation = bottom-right
+  x = -183
+  width = 165
+  action = addtexture
+  actionid = 90a56ec3-8ba0-4604-b62e-b05414c1bbf91758142131334
+  y = -45
+  height = 29
+}
+

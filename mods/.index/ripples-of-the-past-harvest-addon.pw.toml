@@ -1,0 +1,16 @@
+filename = 'RotP-Harvest-1.0.1-1-250321.jar'
+name = 'Ripples of The Past: Harvest Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd6d2913bd22e5ae50f5cb799cdf423e3374aec1fee33c807ad2978691660d18e17e79f46ae920a9b300f735ad57f50b3206d24f32910ddbb2586157fb55cf80c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JnDkhJm4/versions/8xjXYlde/RotP-Harvest-1.0.1-1-250321.jar'
+
+[update.modrinth]
+mod-id = 'JnDkhJm4'
+version = '8xjXYlde'

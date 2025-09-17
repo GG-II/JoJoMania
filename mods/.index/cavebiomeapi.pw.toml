@@ -1,0 +1,16 @@
+filename = 'CaveBiomeAPI-forge-2.0.0.jar'
+name = 'CaveBiomeAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '79da5dc3e03c8e78868d78f2664f50c7a174a66f3da014736269f20de0b7b3151a01664c2c3a4b379f1e42020789120d31eb23a9314aa345f60870607a7a62ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1eaBmqkd/versions/xcKTuaNL/CaveBiomeAPI-forge-2.0.0.jar'
+
+[update.modrinth]
+mod-id = '1eaBmqkd'
+version = 'xcKTuaNL'

@@ -1,0 +1,16 @@
+filename = 'Pehkui-3.8.2+1.16.5-forge.jar'
+name = 'Pehkui'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f120d5be16ccb996cd778b389f39baab8ee8d0b2534620767037fd4865c70eb6e6b633d1687c883f2ad79709506a367cc8cffedb79c0ae665e30bb1b48d71d89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t5W7Jfwy/versions/aIxWya4e/Pehkui-3.8.2%2B1.16.5-forge.jar'
+
+[update.modrinth]
+mod-id = 't5W7Jfwy'
+version = 'aIxWya4e'

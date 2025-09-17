@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.ConnectingScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = menu/background_3.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  name = iggy_walk
+  x = -30
+  width = 63
+  actionid = 36e9ab23-1879-4a56-b1e4-e41f1bc6de191758142504335
+  action = addanimation
+  y = -48
+  height = 50
+}
+
